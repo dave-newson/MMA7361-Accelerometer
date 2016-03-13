@@ -1,0 +1,19 @@
+{
+    "name": "MMA7361-Accelerometer",
+    "keywords": "accelerometer, sensor",
+    "description": "MMA7361 provides 3-axis accelerometer readings as voltages. This library converts those voltages to a vector, and includes a self-calibration library.",
+    "authors": [
+        {
+            "name": "Dave Newson",
+            "email": "dave@davenewson.com",
+            "url": "http://davenewson.com"
+        }
+    ],
+    "repository":
+    {
+      "type": "git",
+      "url": "https://github.com/dave-newson/MMA7361-Accelerometer.git"
+    },
+    "exclude": "examples",
+    "frameworks": "arduino"
+}
